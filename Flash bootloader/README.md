@@ -22,3 +22,6 @@ Note. If the board is reset again, the code will not run if Boot0 is still HIGH 
 ### Flash Commands
 stm32flash.exe -w HID_Bootloaders\hid_generic_pc13.bin COM8
 
+
+123
+
