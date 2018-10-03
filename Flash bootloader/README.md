@@ -1,5 +1,5 @@
 # How to flash stm32f103 bootloader
-Just run flash.bat file.
+Just edit flash.bat COM port an run it.
 
 ### Useful links
 
